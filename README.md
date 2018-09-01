@@ -22,3 +22,6 @@ Here the whole repository is listed, starting from most similar texts down to le
 Commercially this can be used for matching the current page a user is viewing against a repository of advertisement pages, so to find the most relevant advertisement.
 
 Another application is for matching the job description or a resume of a relevant but unwilling to join candidate, against a repository of resumes so to find a similar candidate.
+
+# Usage
+MatchText.exe <Sample File> <Repository Directory>
