@@ -24,4 +24,4 @@ Commercially this can be used for matching the current page a user is viewing ag
 Another application is for matching the job description or a resume of a relevant but unwilling to join candidate, against a repository of resumes so to find a similar candidate.
 
 # Usage
-MatchText.exe <Sample File> <Repository Directory>
+```MatchText.exe <Sample File> <Repository Directory>```
