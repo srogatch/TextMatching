@@ -9,4 +9,6 @@ public:
   explicit Statistics(const std::string& text);
 
   double Dist(const Statistics& fellow) const;
+
+  bool IsEmpty() const { return _totWords == 0; }
 };
