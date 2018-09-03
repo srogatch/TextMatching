@@ -3,7 +3,7 @@ Match a text file against a repository of text files.
 
 Here is a program for finding the most similar file (to a sample file) in a repository of candidate files. 
 
-Below is the output for sample "FAIRY TALES By The Brothers Grimm"
+Below is the output for sample "FAIRY TALES By The Brothers Grimm" against a repository of 10 other books.
 ```
 0.0320757 Repo\THE ADVENTURES OF TOM SAWYER.txt
 0.0363329 Repo\A TALE OF TWO CITIES - A STORY OF THE FRENCH REVOLUTION.txt
