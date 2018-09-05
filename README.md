@@ -1,5 +1,5 @@
 # TextMatching
-Match a text file against a repository of text files.
+Match a text file against a repository of text files, sorting by similarity.
 
 Here is a program for finding the most similar file (to a sample file) in a repository of candidate files. 
 
